@@ -1,2 +1,2 @@
-# React-Practise
+# ReactJS-Practise
 Learning &amp; Exploring React Framework
